@@ -37,4 +37,4 @@ The UI will launch and you can view the population data by making a menu choice.
 ## Credits
 - Lab 1 for CIS 41B, De Anza College, Spring 2023
 - Professor: Clare Nguyen
-- Author: Surajit A. Bose, copyright © 2023. 
+- Author: [Surajit A. Bose](https://github.com/morosebose), copyright © 2023. 
