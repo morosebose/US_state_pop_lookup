@@ -17,10 +17,17 @@ The program consists of the following files:
 Running the program creates an additional file:
 - `logfile.txt` logs the back end function calls and results.
 
-## Downloading Running the Program
+## Downloading and Running the Program
 The program requires that python already be installed on your local machine. If you do not have python installed, you can download the latest version from [python.org]((https://www.python.org/downloads/).
 
-Download `us_state_pop_lookup.zip`, an archive of the entire repo for easy local installation. At the command line prompt, type `python ui.py` to launch the program. On some systems, you may instead need to type `python3 ui.py` at the command line prompt.
+Follow these steps after installing python:
+- Click on the green `Code` button above this README
+- From the menu that opens, choose `Download ZIP`
+- On the local machine, uncompress the ZIP file to a location of your choice
+- Launch a command line prompt such as Terminal, PowerShell, or Windows Command. 
+- At the command line prompt, type `python ui.py` to launch the program.
+  - On some systems, you may instead need to type `python3 ui.py`
+The UI will launch and you can view the population data by making a menu choice. 
 
 ## Credits
 - Lab 1 for CIS 41B, De Anza College, Spring 2023
