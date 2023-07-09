@@ -18,7 +18,7 @@ Running the program creates an additional file:
 - `logfile.txt` logs the back end function calls and results.
 
 ## Downloading and Running the Program
-The program requires that python already be installed on your local machine. If you do not have python installed, you can download the latest version from [python.org]((https://www.python.org/downloads/).
+The program requires that python already be installed on your local machine. If you do not have python installed, you can download the latest version from [python.org](https://www.python.org/downloads/).
 
 Follow these steps after installing python:
 - Click on the green `Code` button above this README
