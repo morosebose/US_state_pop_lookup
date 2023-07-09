@@ -22,6 +22,7 @@ The program requires that python already be installed on your local machine. If 
 
 Follow these steps after installing python:
 - Click on the green `Code` button above this README
+  - If you don't see the button, [go to the main page for this repo](https://github.com/morosebose/us_state_pop_lookup) and try again
 - From the menu that opens, choose `Download ZIP`
 - On the local machine, uncompress the ZIP file to a location of your choice
 - Launch a command line prompt such as Terminal, PowerShell, or Windows Command. 
